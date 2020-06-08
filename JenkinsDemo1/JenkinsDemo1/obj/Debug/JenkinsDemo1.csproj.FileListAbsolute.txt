@@ -1,0 +1,10 @@
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\bin\Debug\JenkinsDemo1.exe.config
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\bin\Debug\JenkinsDemo1.exe
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\bin\Debug\JenkinsDemo1.pdb
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\obj\Debug\JenkinsDemo1.csprojAssemblyReference.cache
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\obj\Debug\JenkinsDemo1.Properties.Resources.resources
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\obj\Debug\JenkinsDemo1.csproj.GenerateResource.cache
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\obj\Debug\JenkinsDemo1.csproj.CoreCompileInputs.cache
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\obj\Debug\JenkinsDemo1.exe
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\obj\Debug\JenkinsDemo1.pdb
+C:\Users\a760936\source\repos\JenkinsDemo1\JenkinsDemo1\JenkinsDemo1\obj\Debug\JenkinsDemo1.Form1.resources

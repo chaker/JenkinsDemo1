@@ -16,5 +16,17 @@ namespace JenkinsDemo1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(textBox1.Text))
+            {
+                textBox1.Text = "Hello";
+            }
+            else
+            {
+                textBox1.Text = string.Empty;
+            }
+        }
     }
 }
