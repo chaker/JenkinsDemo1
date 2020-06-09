@@ -36,7 +36,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(141, 134);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(150, 23);
+            this.button1.Size = new System.Drawing.Size(151, 23);
             this.button1.TabIndex = 0;
             this.button1.Text = "Say Hello";
             this.button1.UseVisualStyleBackColor = true;
@@ -44,7 +44,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(298, 136);
+            this.textBox1.Location = new System.Drawing.Point(300, 136);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 1;
